@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragmenHeight">300dp</dimen>
+    <dimen name="fragmentMargen">16dp</dimen>
+    <dimen name="fragmentElevation">16dp</dimen>
+</resources>
